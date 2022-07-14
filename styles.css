@@ -10,7 +10,7 @@
 }
 
 html{
-    scroll-padding-top: 8rem;
+    scroll-padding-top: 9rem;
     overflow-x: hidden;
     scroll-behavior: smooth;
     transition: all 250ms ease;
@@ -161,7 +161,7 @@ span{color: #aaa;}
 /* Home Section */
 .home-content{
     color: #fff;
-    margin-top: 1em;
+    margin-top: 2em;
     border-radius: 1em;
     background: linear-gradient(rgba(17, 17, 17, 0.7), rgba(17, 17, 17, 0.7)), url(images/home-bg.jpg) no-repeat;
     background-size: cover;
